@@ -1,17 +1,15 @@
 {
   "chainId": 101,
-"address":
-  "B9z8cEWFmc7LvQtjKsaLoKqW5MJmGRCWqs1DPKupCfkk"
-  "symbol": "CBS"
-  "name": "CBS Coin"
-  "decimals":9 ,
-  "loggoURI":
- "https://gateway.pinata.cloud/ipfs/bafybeihpp43cqyk6w3xdu53bxdw2yfr7awwf44jc6f2mvkpawsewoa5mna"
-  "tags": ["utility-token", "community"],
+  "address": "B9z8cEWFmc7LvQtjKsaLoKqW5MJmGRCWqs1DPKupCfkk",
+  "symbol": "CBS",
+  "name": "CBS Coin – Community Builds Sovereignty",
+  "decimals": 9,
+  "logoURI": "https://raw.githubusercontent.com/smitskecbs/token-list/main/assets/mainnet/B9z8cEWFmc7LvQtjKsaLoKqW5MJmGRCWqs1DPKupCfkk/logo.png",
+  "tags": ["community", "cbs"],
   "extensions": {
-    "website":
-    "https://smitskecbs.github.io/cbs-coin/",
-    "telegram": "https://t.me/Cbscoinx",
-    "description": Een token die symbool staat voor soevereiniteit en vrijheid van de gemeenschap"
+    "website": "https://smitskecbs.github.io/cbs-coin",
+    "telegram": "https://t.me/CBS_Coin",
+    "twitter": "https://x.com/CBS_Coin",
+    "description": "CBS Coin (Community Builds Sovereignty) is a decentralized community token on Solana. Its mission is to empower individuals and communities to reclaim ownership over their value, identity, and financial future."
   }
 }
